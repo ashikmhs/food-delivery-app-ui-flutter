@@ -3,7 +3,7 @@
 A new Flutter application.
 
 <p align="center">
-<img src="https://github.com/ashikmhs/food-delivery-app-ui-flutter/blob/main/screensort/Screenshot.png" width="350"  />
+<img src="https://github.com/ashikmhs/food-delivery-app-ui-flutter/blob/main/screensort/Screenshot.png"  />
 </p>
 
 ## Getting Started
